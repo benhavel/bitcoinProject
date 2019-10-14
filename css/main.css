@@ -1,0 +1,11 @@
+/*Cascading Style Sheets*/
+.organize {
+	display: inline-block;
+	text-align: center;
+	padding: 2%;
+	border: solid 2px;
+}
+
+.section {
+	text-align: center;
+}
